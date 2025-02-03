@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Simona\OneDrive - student.etf.bg.ac.rs\Algoritmi i Strukture Podataka 2\Domaci zadatak 1\dz1proba\main.cpp(72,8): warning C4101: 'k': unreferenced local variable
+C:\Users\Simona\OneDrive - student.etf.bg.ac.rs\Algoritmi i Strukture Podataka 2\Domaci zadatak 1\dz1proba\main.cpp(179,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  dz1proba.vcxproj -> C:\Users\Simona\OneDrive - student.etf.bg.ac.rs\Algoritmi i Strukture Podataka 2\Domaci zadatak 1\dz1proba\x64\Debug\dz1proba.exe
